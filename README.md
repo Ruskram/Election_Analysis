@@ -2,11 +2,11 @@
 
 # PyPoll with Python
 
-
 ## Overview of Project
-  
+
 ### Purpose
-  
+
+The purpose of this project is to help out Tom who works for the Colorodo board of elections. He is doing an election audit of the tabulated results for a US congressional precinct in Colorodo. We have to find the total number of votes, total votes per candidate, percentage of votes per candidate, and the winner of the popular vote. Tom wants us to find a way to automate this task, which is usually done with excel, by using python. If we find a way to automate this task it could be expanded to be used in senetorial and other local elections.
 
 ## Election Audit Results
 
